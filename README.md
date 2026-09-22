@@ -11,11 +11,11 @@
 
 ## Trailer
 
-<a href="https://kursal.chat/trailer.mp4"><strong>[ ▶ Watch Trailer ]</strong></a>
+<a href="https://kursal.chat/trailer.mp4" target="_blank"><strong>[ ▶ Watch Trailer ]</strong></a>
 
 ## Demo
 
-<a href="https://kursal.chat/demo.mp4"><strong>[ ▶ Watch Demo ]</strong></a>
+<a href="https://kursal.chat/demo.mp4" target="_blank"><strong>[ ▶ Watch Demo ]</strong></a>
 
 ## License
 
